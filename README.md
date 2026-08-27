@@ -102,35 +102,6 @@ I like going down the rabbit hole of **how things actually work** — from a bro
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=codexero3&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=codexero3&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=codexero3&theme=dark&hide_border=true" />
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codexero3&theme=github-dark&hide_border=true" />
-</p>
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=codexero3&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
----
-
 <p align="center">
   <b>💻 Build • Learn • Break • Fix • Repeat</b>
 </p>

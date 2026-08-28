@@ -1,31 +1,36 @@
 # 👋 Hey, I'm CodeXero3
 
-### Full-Stack Developer · Software Engineer · Tech Enthusiast
+### Full-Stack Developer · Aspiring Security Professional
 
-I build **full-stack web applications, SaaS platforms, REST APIs, and scalable backend systems**.
-I enjoy exploring how software works under the hood — from **databases and distributed systems to networking, security, and AI**.
+I build **full-stack web applications, REST APIs, and modern web solutions** using technologies such as **JavaScript, React, Next.js, Node.js, and databases**.
+
+Alongside development, I am strengthening my understanding of **computer networks, Linux, and network security** as I work toward a transition into **cybersecurity and SOC roles**.
+
+I enjoy understanding how technology works beneath the surface — following a request from the **browser and application layer through APIs, databases, operating systems, and networks**.
+
 
 ---
 
 ## 💫 About Me
 
 🔭 **Currently building**
-Full-stack applications, SaaS platforms, backend services, and developer-focused projects using **Next.js, Laravel, Spring Boot, and the MERN stack**.
+Full-stack applications and startup projects using **JavaScript, React, Next.js, Tailwind CSS, Node.js, APIs, and databases** — with a focus on writing production-ready applications and understanding how systems work end to end.
 
-👯 **Looking to collaborate on**
-Open-source projects, **SaaS products, full-stack applications, AI-powered tools, and developer utilities**.
+🎯 **Currently focused on**
+Strengthening my **JavaScript, React, and Next.js fundamentals** while building real-world projects and improving my ability to explain technical concepts clearly for development interviews.
 
-🤝 **Looking to improve**
-**System design, cloud architecture, distributed systems, AI integration, and cybersecurity**.
+🛡️ **Transitioning toward**
+**Network Security and Cybersecurity**, with a focus on networking fundamentals, Linux, system security, network monitoring, threat detection, log analysis, and SOC operations.
 
 🌱 **Currently learning**
-**AI/ML · Cyber Security · System Design · C++ · TypeScript · Advanced Backend Architecture**
+**JavaScript · React · Next.js · PostgreSQL/SQL · MongoDB · Linux · Computer Networks · Network Security · SOC Fundamentals · Python · DSA**
 
 💬 **Ask me about**
-**JavaScript · TypeScript · React · Next.js · MERN · Laravel · Spring Boot · REST APIs · Databases · Full-Stack Development**
+**JavaScript · React · Next.js · REST APIs · Databases · Linux · Networking Fundamentals · Web Applications**
 
 ⚡ **Fun fact**
-I like going down the rabbit hole of **how things actually work** — from a browser request to an API, database, operating system, network, and everything in between.
+I enjoy understanding how things actually work beneath the surface — tracing a request from the **browser → application → API → database → operating system → network**, and understanding what happens at each layer.
+
 
 ---
 
@@ -76,29 +81,11 @@ I like going down the rabbit hole of **how things actually work** — from a bro
 
 ---
 
-# 🚀 What I Build
-
-```text
-┌─────────────────────────────────────────────────────┐
-│                  CodeXero3                          │
-├─────────────────────────────────────────────────────┤
-│  🌐 Full-Stack Web Applications                     │
-│  🏢 SaaS & Multi-Tenant Platforms                   │
-│  ⚙️  REST APIs & Backend Services                   │
-│  🔐 Authentication, IAM & Authorization             │
-│  🗄️  Database-Driven Applications                   │
-│  🤖 AI-Powered Applications                          │
-│  🧠 Problem Solving & C++                           │
-└─────────────────────────────────────────────────────┘
-```
-
----
-
 # 🧠 Areas of Interest
 
-**Full-Stack Development** · **Backend Engineering** · **System Design**
-**AI / Machine Learning** · **Cyber Security** · **Networking**
-**Databases** · **Cloud Architecture** · **Software Engineering**
+**Full-Stack Development** · **JavaScript & Web Engineering** · **Backend Development**
+**Network Security** · **Cybersecurity** · **SOC & Threat Detection**
+**Computer Networking** · **Linux & Systems** · **Databases**
 
 ---
 
